@@ -16,6 +16,15 @@ Shown on Log Event -
 added new route w/ lambda:
 <img width="1371" height="925" alt="image" src="https://github.com/user-attachments/assets/882fafa8-083a-4db2-a9e1-1eafc0abaa19" />
 
+Send Request to Lambda SUCCESS:
+<img width="1397" height="1005" alt="image" src="https://github.com/user-attachments/assets/5ce87d2c-925b-4134-9a5b-a5d728bdb4d3" />
+
+Frontend + Lambda App - 
+<img width="1420" height="899" alt="image" src="https://github.com/user-attachments/assets/4b5b6d5d-f955-40b1-af24-d8eded297c74" />
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+
 
 
 
