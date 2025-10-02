@@ -22,6 +22,8 @@ Send Request to Lambda SUCCESS:
 Frontend + Lambda App - 
 <img width="1420" height="899" alt="image" src="https://github.com/user-attachments/assets/4b5b6d5d-f955-40b1-af24-d8eded297c74" />
 
+<img width="2363" height="834" alt="image" src="https://github.com/user-attachments/assets/279899c3-e1ea-4596-b10a-b196f6299ca5" />
+
 -----------------------------------------------------------------------------------------------------------------------------
 
 
