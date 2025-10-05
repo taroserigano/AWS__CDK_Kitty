@@ -1,5 +1,7 @@
 # AWS__CDK_Kitty
 
+<img width="3760" height="1852" alt="image" src="https://github.com/user-attachments/assets/6ed9a7ad-e0ec-4d35-9cad-ca98bc20db2d" />
+
 
 <img width="1916" height="1033" alt="image" src="https://github.com/user-attachments/assets/8762e141-f200-4e22-a69a-84a1da151140" />
 
