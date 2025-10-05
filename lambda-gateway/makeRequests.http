@@ -1,0 +1,14 @@
+@URL = https://d3sae1vtuj.execute-api.us-east-2.amazonaws.com
+
+# This works - matches your GET / route
+GET {{URL}}/
+
+###
+
+# This will fail - no /profile route exists yet
+POST {{URL}}/profile
+Content-Type: application/json
+
+{
+  "username": "Taro"
+}
